@@ -1,1 +1,3 @@
-console.log("hello world");
+import BudgetTracker from "./BudgetTracker.js";
+
+new BudgetTracker("#app");
